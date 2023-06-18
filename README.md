@@ -4,7 +4,7 @@
 
 - Grokking Algorithms - Aditya Y. Bhargava
 
-[Book](./image.png)
+![Book](./image.png)
 
 ## General info
 
