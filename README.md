@@ -4,6 +4,9 @@
 
 - Grokking Algorithms - Aditya Y. Bhargava
 
+[Book](../../Pictures/grokkingAlg.png)
+
 ## General info
 
-Each Chapter will be cover using a seperate folder
+Each Chapter will be covered using a seperate folder
+Scripts will be done using python
