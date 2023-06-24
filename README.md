@@ -8,6 +8,6 @@
 
 ## General info
 
-Each Chapter will be covered using a seperate folder
-Scripts will be done using python
+Each Chapter will be covered using a separate folder
+Scripts will be done using python & javascript
 Author repo https://github.com/egonschiele/grokking_algorithms
